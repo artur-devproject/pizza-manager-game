@@ -1,0 +1,9 @@
+.productsList {
+    display: grid;
+    row-gap: 10px;
+}
+
+.productItem {
+    display: grid;
+    grid-template-columns: 2fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr;
+} 

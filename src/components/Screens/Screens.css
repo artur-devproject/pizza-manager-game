@@ -1,0 +1,21 @@
+.screens__list {
+
+}
+
+.screens__item {
+    padding: 15px;
+    cursor: pointer;
+}
+
+.screens__item:hover {
+    background-color: grey;
+}
+
+.screens__item_active {
+    background-color: grey;
+}
+
+.screenBody {
+    padding: 30px;
+    width: 100%;
+}

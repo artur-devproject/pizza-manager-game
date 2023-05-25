@@ -1,0 +1,9 @@
+.menuList {
+    display: grid;
+    row-gap: 10px;
+}
+
+.menuItem {
+    display: grid;
+    grid-template-columns: 2fr 0.5fr 0.5fr 0.5fr 0.25fr 0.25fr;
+}

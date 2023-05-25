@@ -1,0 +1,9 @@
+.orderList {
+    display: grid;
+    row-gap: 10px;
+}
+
+.orderItem {
+    display: grid;
+    grid-template-columns: 2fr 0.5fr 0.5fr 1fr;
+}
